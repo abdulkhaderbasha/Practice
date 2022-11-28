@@ -1,1 +1,2 @@
-# i am an indian
+i am from vijayawada
+i am learning devops
